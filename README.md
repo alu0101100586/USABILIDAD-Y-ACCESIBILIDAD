@@ -29,4 +29,4 @@ En este fichero se describirán todos los pasos que hemos dado para llevar a cab
       
       4.3. Contexto:
       
-      4.4. Recopilación de requisitos:    
+      4.4. Recopilación de requisitos:  
