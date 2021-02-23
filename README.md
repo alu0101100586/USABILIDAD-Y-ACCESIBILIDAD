@@ -46,7 +46,7 @@ Profesores de Ingeniería informática
  
 **Requisitos:**
  
-###Sandro 
+##Sandro 
  
   >¿Cómo organizas tu tiempo de cara a una entrega importante?
   
@@ -73,7 +73,7 @@ Profesores de Ingeniería informática
  No podría dar un consejo como tal ya que no utilizo en sí ningún método para estudiar. Pero considero que organizarse con antelación es algo primordial a la hora de estudiar.
  
  
-###Joel
+##Joel
 
  
   >¿Cómo organizas tu tiempo de cara a una entrega importante?
@@ -100,7 +100,7 @@ Profesores de Ingeniería informática
  
  Si tuviese que dar un consejo sería que no dijesen que no al descanso. Hay personas que creen que los descansos son peligrosos porque lo que hacen es ralentizarte o favorecen a distraerte mientras estudias. Pero está claro que todo en exceso es malo y desde luego estudiar durante muchas horas sin descansar también lo es.  Aplicar descansos mientras estudias está demostrado que ayuda a mejorar el rendimiento y la capacidad de concentración. Si tienen interés en esto, les recomiendo que busquen información sobre la técnica Pomodoro, por ejemplo, que entre otras, aplica descansos en tus sesiones de estudio.
  
-###Jose Miguel
+##Jose Miguel
 
   >¿Cómo organizas tu tiempo de cara a una entrega importante?
   
@@ -127,7 +127,7 @@ Profesores de Ingeniería informática
  En mi opinión, el correcto uso del tiempo depende principalmente de la antelación con la que se empieza la tarea en relación a la fecha de entrega y las distracciones que surgen durante el proceso de estudio
  
  
-###Jose
+##Jose
  
  >¿Cómo organizas tu tiempo de cara a una entrega importante?
  
