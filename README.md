@@ -3,7 +3,7 @@ Repositorio del grupo 5 para la asignatura UYA.
 
 En este fichero se describirán todos los pasos que hemos dado para llevar a cabo este proyecto:
 
-**1. Indicar en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.** 
+## **1. Indicar en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.** 
 
 A lo largo del documento se nos cuenta la experiencia de la creación de un portal bibliotecario con el uso del Diseño Centrado en el Usuario.
 
@@ -26,11 +26,11 @@ También se utilizaría el método del Conductor e Interacción Constructiva, co
 ![metodos dcu](img/metodos-dcu.jpg)
 
  
-**2. Aplicar el DCU para la realización de un prototipo de una aplicación web para la gestión y optimización del tiempo de estudio de un estudiante del Grado en Ingeniería Informática de la ULL. Para ello:**
+## **2. Aplicar el DCU para la realización de un prototipo de una aplicación web para la gestión y optimización del tiempo de estudio de un estudiante del Grado en Ingeniería Informática de la ULL. Para ello:**
 
-**Definir las tareas que se llevarán a cabo en la fase de investigación y diseño conceptual de la aplicación.**
+### **Definir las tareas que se llevarán a cabo en la fase de investigación y diseño conceptual de la aplicación.**
 
-**Análisis-Fase de investigación**
+#### **Análisis-Fase de investigación**
 
 Primero, identificamos a los potenciales usuarios del sistema y saber que quieren hacer con él, para esto usamos el método de observación, ver cómo interactúan con su entorno y entender qué necesidades van teniendo con respecto con la ULL. Continuaremos realizando entrevistas y cuestionarios a cada usuario de manera individual para con esto crear perfiles de usuario y personas basados en los resultados de la investigación, con esto conseguiremos conocer en profundidad las percepciones, opiniones, deseos y emociones de las personas que usarían nuestra aplicación y reunir los requisitos necesarios. Las preguntas de la entrevista son:
  
@@ -56,15 +56,15 @@ También realizamos un estudio de homólogos para así estudiar diferentes aplic
 
 Para terminar la fase de Análisis e Investigación y observando todos los requisitos puestos por los usuarios y a través del estudio de homólogos realizaremos una lluvia de ideas para aportar requisitos que no se hayan aportado aún o  soluciones a los requisitos.
  
-**Diseño conceptual**
+#### **Diseño conceptual**
 
 Una vez realizada la investigación, se puede empezar a crear los perfiles de usuario y la creación de personas. Identificamos por otro lado las tareas críticas que se quieren desarrollar en el software. Los perfiles de usuario nos permitirá seleccionar y describir las características de los usuarios, identificando para que grupos se está diseñando y encontrar personas que coincidan con el perfil que puedan apoyar los procesos de evaluación. La creación de personas nos permite crear arquetipos que modelan a los usuarios y tener claro sus opiniones y deseos para incorporar los requisitos que tendrá que satisfacer la aplicación.
  
-**Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto y la especificación de requisitos.**
+### **Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto y la especificación de requisitos.**
 
-**Perfiles de usuarios:**
+#### **Perfiles de usuarios:**
  
-**Estudiantes de ingeniería informática:**
+##### **Estudiantes de ingeniería informática:**
  
 **Contexto:** La aplicación de gestión y optimización debería ayudar al alumnado a organizarse de manera adaptada a las necesidades de la vida universitaria, por eso serían uno de sus principales usuarios de la plataforma. Es necesario que puedan usarla para organizar su tiempo de estudio, las entregas, tiempo libre, etc.
  
@@ -72,7 +72,7 @@ Una vez realizada la investigación, se puede empezar a crear los perfiles de us
  
 **Destreza tecnológica:** Dentro de la media tienen una buena destreza tecnológica.
  
-**Profesores de Ingeniería informática:**
+##### **Profesores de Ingeniería informática:**
  
 **Contexto:** La aplicación de gestión y optimización debería ayudar al profesorado a organizarse con la asignatura que se encuentran impartiendo así cómo usarla para transmitirle las notificaciones al alumnado de la manera más óptima  y rápida posible. También para organizar sus propios proyectos y la realización de proyectos que posteriormente le dará a los alumnos, en general para la organización del tiempo de sus tareas
  
@@ -80,14 +80,14 @@ Una vez realizada la investigación, se puede empezar a crear los perfiles de us
  
 **Destreza tecnológica:** Dentro de la media tienen una buena destreza tecnológica.
 
-**Perfiles de personas**
+#### **Perfiles de personas**
 
 ![perfil sando](img/perfil-sandro.jpg)
 ![perfil joel](img/perfil-joel.jpg)
 ![perfil jose miguel](img/perfil-jose-miguel.jpg)
 ![perfil jose](img/perfil-jose.jpg)
 
-**Requisitos:**
+#### **Requisitos:**
 Los requisitos reunidos en la fase de investigación son:
  
 Un apartado en el que pudieras asignar un tiempo para concentrarte y que durante ese periodo estés libre de distracciones.
