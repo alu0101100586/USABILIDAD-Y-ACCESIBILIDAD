@@ -9,9 +9,9 @@ En este fichero se describirán todos los pasos que hemos dado para llevar a cab
   
   3. La primera fase, conocida como "Análisis" o "Fase de investigación"  se lleván a cabo las siguientes tareas:
   
-      3.1. Observaciones: se realiza un análisis de los usuarios en su entorno.
+      3.1. Observaciones: se realizará un análisis de los usuarios en el entorno en el que se va a mover nuestra web o aplicación.
      
-      3.2. Estrevista a los usuarios: para saber que tipo de personas usaran nuestra aplicación.
+      3.2. Estrevista a los usuarios: se realizará una entrevista a nuestro grupo de usuarios para entrar en profundidad en unos temas determinados para                                                                                                                                        así conocer la percepción, opiniones, deseos y emociones de los usuarios de nuestra web o aplicación.
      
       3.3. Encuestas: para poder realizar los perfiles de usuarios.
      
@@ -23,10 +23,10 @@ En este fichero se describirán todos los pasos que hemos dado para llevar a cab
            
   4. En al siguiente etapa del proyecto iniciaremos la fase de "Diseño Conceptual" y se realizará:
       
-      4.1. Perfil de Usuarios:
+      4.1. Perfil de Usuarios:se detallaran los perfiles de personas en concreto que usaran nuestra web o nuestra aplicación.
           
-      4.2. Personajes:
+      4.2. Personajes: 
       
-      4.3. Contexto:
+      4.3. Contexto: 
       
       4.4. Recopilación de requisitos:    
