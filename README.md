@@ -50,7 +50,7 @@ Primero, identificamos a los potenciales usuarios del sistema y saber que quiere
  
 ¿Y cuál ha sido la asignatura que más te ha costado?
  
-Asimismo, la encuesta realizada es la siguiente [Encuesta onlince](https://docs.google.com/forms/d/e/1FAIpQLSdsJ8iu0wr9ZrRjoIXy3oIdXLIGInXgzKxxv8UJ2ORBAWTHpQ/viewform) en formato Google Forms.
+Asimismo, la encuesta realizada es la siguiente [Encuesta online](https://docs.google.com/forms/d/e/1FAIpQLSdsJ8iu0wr9ZrRjoIXy3oIdXLIGInXgzKxxv8UJ2ORBAWTHpQ/viewform) en formato Google Forms.
 
 También realizamos un estudio de homólogos para así estudiar diferentes aplicaciones web de índole parecida, con objetivos, contenidos y público similar, para así llevar a cabo diversas comparaciones entre ellos. Entre las aplicaciones escogidas se encuentran la APP de la Universidad de La Laguna, las aplicación Wunderlist, Sesame, Trello, StayFocusd y Coach me.
 
