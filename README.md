@@ -80,3 +80,34 @@ Una vez realizada la investigación, se puede empezar a crear los perfiles de us
  
 **Destreza tecnológica:** Dentro de la media tienen una buena destreza tecnológica.
 
+**Perfiles de personas**
+
+![perfil sando](img/perfil-sandro.jpg)
+![perfil joel](img/perfil-joel.jpg)
+![perfil jose miguel](img/perfil-jose-miguel.jpg)
+![perfil jose](img/perfil-jose.jpg)
+
+**Requisitos:**
+Los requisitos reunidos en la fase de investigación son:
+ 
+Un apartado en el que pudieras asignar un tiempo para concentrarte y que durante ese periodo estés libre de distracciones.
+ 
+Tener un calendario para anotar las tareas y recordatorios.
+ 
+Sección que permita añadir asignaturas y para cada una de ellas poder incluir: enlaces y documentos que sean relevantes y de interés.
+ 
+Aportar consejos de como organizar tu tiempo, técnicas de estudio.
+ 
+Notificaciones para tener un buen ritmo de trabajo, notifique los descansos y cuando volver a ponerse a trabajar.
+ 
+Inclusión de un sistema de logros u objetivos.
+ 
+Necesidad de ser escalable y modular.
+ 
+Imagen y colores configurables para personas con daltonismo.
+ 
+Carácteristicas cómo el tamaño de letra o la fuente adaptables a las necesidades del usuario.
+ 
+Accesible a funciones por voz.
+
+
