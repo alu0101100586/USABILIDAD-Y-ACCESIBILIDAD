@@ -23,7 +23,7 @@ Así mismo, para la evaluación se podrían utilizar técnicas como la aplicaci�
 
 También se utilizaría el método del Conductor e Interacción Constructiva, con las cuales de una forma u otra los usuarios expresan libremente sus pensamientos, sentimientos y opiniones sobre cualquier aspecto. O utilizar también conversaciones guiadas.
 
-![metodos dcu](img/metodos-dcu.jpg)
+![metodos dcu](images/metodos-dcu.jpg)
 
  
 ## **2. Aplicar el DCU para la realización de un prototipo de una aplicación web para la gestión y optimización del tiempo de estudio de un estudiante del Grado en Ingeniería Informática de la ULL. Para ello:**
@@ -82,10 +82,10 @@ Una vez realizada la investigación, se puede empezar a crear los perfiles de us
 
 #### **Perfiles de personas**
 
-![perfil sando](img/perfil-sandro.jpg)
-![perfil joel](img/perfil-joel.jpg)
-![perfil jose miguel](img/perfil-jose-miguel.jpg)
-![perfil jose](img/perfil-jose.jpg)
+![perfil sando](images/perfil-sandro.jpg)
+![perfil joel](images/perfil-joel.jpg)
+![perfil jose miguel](images/perfil-jose-miguel.jpg)
+![perfil jose](images/perfil-jose.jpg)
 
 #### **Requisitos:**
 Los requisitos reunidos en la fase de investigación son:
