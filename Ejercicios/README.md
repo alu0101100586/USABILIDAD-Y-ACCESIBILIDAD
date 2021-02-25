@@ -2,4 +2,8 @@
 
 ## Primera entrega
 
-[Seminario DCU](https://github.com/Jonay-Estevez-Diaz/USABILIDAD-Y-ACCESIBILIDAD/tree/main/Ejercicios/1.Seminario_DCU)
+[Seminario DCU](1.Seminario_DCU)
+
+## Segunda entrega
+
+[Uso de la web por personas con disfuncionalidad](2.Uso_de_la_web_por_personas_con_disfuncionalidad)
