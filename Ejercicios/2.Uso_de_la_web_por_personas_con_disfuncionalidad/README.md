@@ -35,7 +35,7 @@ José Daniel Fuentes Marra
 
 ### **Experiencia con ChromeVox**
 
-En el siguiente enlace se encuentra el video de la experiencia de ChromeVox Video de la experiencia usando ChromeVox
+En el siguiente enlace se encuentra el video de la experiencia de ChromeVox [Video de la experiencia usando ChromeVox](https://drive.google.com/file/d/17YFaUdLYq2M0k9g6W9S15s-7jAHcVG2x/view?usp=sharing)
 
 -----------------------
 
