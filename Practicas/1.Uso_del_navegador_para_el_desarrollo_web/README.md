@@ -27,14 +27,13 @@ José Daniel Fuentes Marra
 * **Qué peticiones desencadena la consulta.**
   * En chrome fueron 22 Consultas: 3 JS, 4 CSS, 13 imágenes, 1 documento, 1 icon.
 
-![chrome](/img/chrome.jpg)
+![chrome](https://github.com/Jonay-Estevez-Diaz/USABILIDAD-Y-ACCESIBILIDAD/blob/main/Practicas/1.Uso_del_navegador_para_el_desarrollo_web/img/chrome.jpg)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
- 
+
   * Firefox fueron 18 consultas: 1 html, 3 JS, 14 imágen
 
 
-![En firefox](/img/firefox.jpg)
+![En firefox](https://github.com/Jonay-Estevez-Diaz/USABILIDAD-Y-ACCESIBILIDAD/blob/main/Practicas/1.Uso_del_navegador_para_el_desarrollo_web/img/firefox.png)
  
 * **¿Qué tipo de petición estás realizando?**
   * Todas son peticiones del tipo GET.
@@ -51,7 +50,7 @@ José Daniel Fuentes Marra
 * **¿La página tiene alguna cookie?, ¿Cuáles?.**
   * Si, tiene 5:
 
-![cookies](/img/cookies.jpg)
+![cookies](https://github.com/Jonay-Estevez-Diaz/USABILIDAD-Y-ACCESIBILIDAD/blob/main/Practicas/1.Uso_del_navegador_para_el_desarrollo_web/img/cookies.png)
 
 * **¿Qué idioma acepta?.**
   * español; es
