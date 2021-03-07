@@ -27,7 +27,9 @@ José Daniel Fuentes Marra
 * **Qué peticiones desencadena la consulta.**
   * En chrome fueron 22 Consultas: 3 JS, 4 CSS, 13 imágenes, 1 documento, 1 icon.
 
+![chrome](/img/chrome.jpg)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
   * Firefox fueron 18 consultas: 1 html, 3 JS, 14 imágen
 
