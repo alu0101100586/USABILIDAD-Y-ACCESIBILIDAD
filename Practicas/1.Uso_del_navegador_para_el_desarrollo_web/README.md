@@ -27,12 +27,12 @@ José Daniel Fuentes Marra
 * **Qué peticiones desencadena la consulta.**
   * En chrome fueron 22 Consultas: 3 JS, 4 CSS, 13 imágenes, 1 documento, 1 icon.
 
-![En chrome](img/chrome,jpg)
+![En chrome](/img/chrome.jpg)
  
   * Firefox fueron 18 consultas: 1 html, 3 JS, 14 imágen
 
 
-![En firefox](img/firefox.jpg)
+![En firefox](/img/firefox.jpg)
  
 * **¿Qué tipo de petición estás realizando?**
   * Todas son peticiones del tipo GET.
@@ -49,7 +49,7 @@ José Daniel Fuentes Marra
 * **¿La página tiene alguna cookie?, ¿Cuáles?.**
   * Si, tiene 5:
 
-![cookies](img/cookies.jpg)
+![cookies](/img/cookies.jpg)
 
 * **¿Qué idioma acepta?.**
   * español; es
