@@ -25,16 +25,14 @@ José Daniel Fuentes Marra
 **Utiliza los navegadores Chrome y Firefox para resolver las siguientes cuestiones:**
 
 * **Qué peticiones desencadena la consulta.**
-  En chrome fueron 22 Consultas:
-  3 JS, 
-4 CSS, 
-13 imágenes,
-1 documento
-1 icon.
+  * En chrome fueron 22 Consultas:
+  * 3 JS, 
+  * 4 CSS, 
+  * 13 imágenes,
+  * 1 documento
+  * 1 icon.
  
- 
- 
-Firefox fueron 18 consultas
+  * Firefox fueron 18 consultas
 1 html
 3 JS
 14 imágen
