@@ -25,35 +25,32 @@ José Daniel Fuentes Marra
 **Utiliza los navegadores Chrome y Firefox para resolver las siguientes cuestiones:**
 
 * **Qué peticiones desencadena la consulta.**
-  * En chrome fueron 22 Consultas:
-  * 3 JS, 
-  * 4 CSS, 
-  * 13 imágenes,
-  * 1 documento
-  * 1 icon.
+  * En chrome fueron 22 Consultas: 3 JS, 4 CSS, 13 imágenes, 1 documento, 1 icon.
  
-  * Firefox fueron 18 consultas
-1 html
-3 JS
-14 imágen
+  * Firefox fueron 18 consultas: 1 html, 3 JS, 14 imágen
  
-¿Qué tipo de petición estás realizando?
-Todas son peticiones del tipo GET.
-Qué código de estatus devuelve.
-Todas las peticiones devuelven el código 200: es del tipo Exito, Accepted
-Qué DNS tiene el servidor
-www3.gobiernodecanarias.org
-Qué IP tiene tiene el servidor
-93.188.136.12693.188.136.12693.188.136.126:443
-¿La página tiene alguna cookie?, ¿Cuáles?.
-Si, tiene 5:
+* **¿Qué tipo de petición estás realizando?**
+  * Todas son peticiones del tipo GET.
 
-¿Qué idioma acepta?.
-español; es
-Inglés; en
-Alemán; de
-Alguna línea de código JavaScript
-function Checker(n,t){var r="",u=6,f="1234567890",i;for(t===0&&(f+="QWERTYUIOPASDFGHJKLZXCVBNM",u=16),i=0;i<n.length;i++)f.indexOf(n.charAt(i).toUpperCase())!==-1&&r.length<u&&(r+=n.charAt(i));return r}var rutaInicio=window.location.href,lang="@SessionContainer.culture",errorText;lang===""&&(lang="es-ES");errorText="Debe introducir un CIP válido";lang==="en-GB"?errorText="You must enter a valid CIP":lang==="de-DE"&&(errorText="Sie müssen einen gültigen CIP geben");$(document).load(function(){});$(document).ready(function(){$("#formData").submit(function(n){$("#cip").val().length!==16&&($("#modalError .modal-body p").html(errorText),n.preventDefault())});$("#btn-help").on("click",function(){$("#modalAyuda").modal("show")})})
+* **Qué código de estatus devuelve.**
+  * Todas las peticiones devuelven el código 200: es del tipo Exito, Accepted
+
+* **Qué DNS tiene el servidor**
+  * www3.gobiernodecanarias.org
+
+* **Qué IP tiene tiene el servidor**
+  * 93.188.136.12693.188.136.12693.188.136.126:443
+
+* **¿La página tiene alguna cookie?, ¿Cuáles?.**
+  * Si, tiene 5:
+
+* **¿Qué idioma acepta?.**
+  * español; es
+  * Inglés; en
+  * Alemán; de
+
+* **Alguna línea de código JavaScript**
+  * function Checker(n,t){var r="",u=6,f="1234567890",i;for(t===0&&(f+="QWERTYUIOPASDFGHJKLZXCVBNM",u=16),i=0;i<n.length;i++)f.indexOf(n.charAt(i).toUpperCase())!==-1&&r.length<u&&(r+=n.charAt(i));return r}var rutaInicio=window.location.href,lang="@SessionContainer.culture",errorText;lang===""&&(lang="es-ES");errorText="Debe introducir un CIP válido";lang==="en-GB"?errorText="You must enter a valid CIP":lang==="de-DE"&&(errorText="Sie müssen einen gültigen CIP geben");$(document).load(function(){});$(document).ready(function(){$("#formData").submit(function(n){$("#cip").val().length!==16&&($("#modalError .modal-body p").html(errorText),n.preventDefault())});$("#btn-help").on("click",function(){$("#modalAyuda").modal("show")})})
  
  
  
