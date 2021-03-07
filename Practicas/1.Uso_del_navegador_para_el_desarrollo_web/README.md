@@ -1,4 +1,6 @@
-# Usabilidad y Accesibilidad: Uso del navegador para el desarrollo web 
+# Usabilidad y Accesibilidad: Uso del navegador para el desarrollo web
+
+## Grupo
 
 Grupo 5.
 
@@ -14,7 +16,7 @@ Jonay Estévez Díaz
 José Daniel Fuentes Marra
 (alu0101166247@ull.edu.es)
 
-
+## Desarrollo
 
 **Accede a la siguiente página web:** 
 
@@ -23,8 +25,8 @@ José Daniel Fuentes Marra
 **Utiliza los navegadores Chrome y Firefox para resolver las siguientes cuestiones:**
 
 * **Qué peticiones desencadena la consulta.**
-  * En chrome fueron 22 Consultas:
-  - 3 JS, 
+  En chrome fueron 22 Consultas:
+  3 JS, 
 4 CSS, 
 13 imágenes,
 1 documento
