@@ -50,8 +50,9 @@ José Daniel Fuentes Marra
   * Alemán; de
 
 * **Alguna línea de código JavaScript**
-  * function Checker(n,t){var r="",u=6,f="1234567890",i;for(t===0&&(f+="QWERTYUIOPASDFGHJKLZXCVBNM",u=16),i=0;i<n.length;i++)f.indexOf(n.charAt(i).toUpperCase())!==-1&&r.length<u&&(r+=n.charAt(i));return r}var rutaInicio=window.location.href,lang="@SessionContainer.culture",errorText;lang===""&&(lang="es-ES");errorText="Debe introducir un CIP válido";lang==="en-GB"?errorText="You must enter a valid CIP":lang==="de-DE"&&(errorText="Sie müssen einen gültigen CIP geben");$(document).load(function(){});$(document).ready(function(){$("#formData").submit(function(n){$("#cip").val().length!==16&&($("#modalError .modal-body p").html(errorText),n.preventDefault())});$("#btn-help").on("click",function(){$("#modalAyuda").modal("show")})})
- 
+```javascript
+function Checker(n,t){var r="",u=6,f="1234567890",i;for(t===0&&(f+="QWERTYUIOPASDFGHJKLZXCVBNM",u=16),i=0;i<n.length;i++)f.indexOf(n.charAt(i).toUpperCase())!==-1&&r.length<u&&(r+=n.charAt(i));return r}var rutaInicio=window.location.href,lang="@SessionContainer.culture",errorText;lang===""&&(lang="es-ES");errorText="Debe introducir un CIP válido";lang==="en-GB"?errorText="You must enter a valid CIP":lang==="de-DE"&&(errorText="Sie müssen einen gültigen CIP geben");$(document).load(function(){});$(document).ready(function(){$("#formData").submit(function(n){$("#cip").val().length!==16&&($("#modalError .modal-body p").html(errorText),n.preventDefault())});$("#btn-help").on("click",function(){$("#modalAyuda").modal("show")})})
+ ```
  
  
  
