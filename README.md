@@ -7,15 +7,15 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 ### Primer seminario. Seminario DCU
 
-[Seminario DCU](ejercicios/1.Seminario_DCU)
+[Seminario DCU](Ejercicios/1.Seminario_DCU)
 
 ### Segundo seminario. Uso de la web por personas con disfuncionalidad
 
-[Uso de la web por personas con disfuncionalidad](ejercicios/2.Uso_de_la_web_por_personas_con_disfuncionalidad)
+[Uso de la web por personas con disfuncionalidad](Ejercicios/2.Uso_de_la_web_por_personas_con_disfuncionalidad)
 
 ### Tercer Seminario. Legislación Accesibilidad
 
-[Legislación y Accesibilidad](ejercicios/3.Legislacion_y_accesibilidad)
+[Legislación y Accesibilidad](Ejercicios/3.Legislacion_y_accesibilidad)
 
 
 ### Cuarto Seminario. Perceptible
