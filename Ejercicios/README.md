@@ -14,4 +14,4 @@
 
 ## Cuarto Seminario
 
-[Perceptibilidad](4.Perceptibilidad)
+[Perceptibilidad](4.Perceptible)
