@@ -11,3 +11,7 @@
 ## Tercer Seminario
 
 [Legislación y Accesibilidad](3.Legislacion_y_accesibilidad)
+
+## Cuarto Seminario
+
+[Perceptibilidad](4.Perceptibilidad)
