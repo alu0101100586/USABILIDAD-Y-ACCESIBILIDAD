@@ -1,0 +1,96 @@
+body {
+    font-family: Arial;
+    font-size: 1.5em;
+    color: black;
+    width: 770px;
+}
+
+header {
+  padding-bottom: 5px;
+}
+
+/* Barra de navegacion */
+.nav {
+  height: 100px;
+  border-style: solid;
+  background-image: url(img/cabecera.jpg);
+}
+.nav li {
+  float: left;
+}
+.nav li:hover{
+  background-color: grey;
+}
+.nav ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+.nav li a {
+  padding: 8px;
+}
+
+/* Etiquetas a */
+a{
+  color: blue;
+}
+a:hover{
+  color: red;
+}
+a:visited{
+  color: blue;
+}
+
+/* Contenido principal */
+.contenido_principal {
+  width: 330px;
+  position: relative;
+  border-style: solid;
+}
+.main-images img{
+  width: 50%;
+  padding-left: 100px;
+}
+table a{
+  color: green;
+  padding: 20px;
+}
+/*Parrafos*/
+p{
+  margin-top: 0.5em
+}
+
+/* Contenido Secundario */
+.contenido_secundario {
+  position: relative;
+  border-style: solid;
+  width: 280px;
+  left: 340px;
+  top: -522px;
+  padding-bottom: 25px;
+}
+.contenido_secundario .menu {
+  padding: 0.3em;
+  margin-bottom: 0.7em;
+  padding-left: 25px;
+}
+
+/* Zona 2 */
+.enlaces {
+  width: 130px;
+  border-style: solid;
+  position: relative;
+  left: 633px;
+  top: -1045px;
+  padding-bottom: 340px;
+}
+.enlaces ul {
+  font-size: 20px;
+  padding-left: 25px;
+}
+
+/* Pie de pagina */
+.pie_pagina {
+  border-style: solid;
+  padding-left: 25px;
+  margin-top: -1040px;
+}
