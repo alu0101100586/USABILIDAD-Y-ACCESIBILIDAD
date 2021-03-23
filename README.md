@@ -36,7 +36,9 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 [Introducción a HTML](Practicas/2.Introduccion_a_HTML)
 
-### Tercera práctica
+### Tercera práctica. Introducción a CSS
+
+[Introducción a CSS](Practicas/3.Introduccion_a_CSS)
 
 
 
