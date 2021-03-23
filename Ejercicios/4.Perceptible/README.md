@@ -1,4 +1,4 @@
-# **Infograma sobre la legislación de accesibilidad** 
+# **Tabla con las pautas y criterios de perceptible** 
 
 Grupo 5.
 
