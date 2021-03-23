@@ -20,11 +20,21 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 ### Cuarto Seminario. Perceptible
 
+[Perceptible](Ejercicios/4.Perceptible)
+
+### Quinto Seminario. Operable
+
+[Operable](Ejercicios/5.Operable)
+
 ## Practicas
 
-### Primera práctica
+### Primera práctica. Uso del navegador para el desarrollo web
 
-### Segunda práctica
+[Uso del navegador para el desarrollo web](Practicas/1.Uso_del_navegador_para_el_desarrollo_web)
+
+### Segunda práctica. Introducción a HTML
+
+[Introducción a HTML](Practicas/2.Introduccion_a_HTML)
 
 ### Tercera práctica
 
