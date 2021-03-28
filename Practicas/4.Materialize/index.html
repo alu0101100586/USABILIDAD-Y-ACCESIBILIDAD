@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Gestión ULL</title>
+        <meta name="author" content="Bruno, Daniel, Miguel, Jonay">
+        <meta name="description" content="La mejor opción para organizar tu tiempo">
+        <link rel="icon" type="image/x-icon" href=""/>
+        <link href="css/materialize.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!-- Nav bar -->
+        <header>       
+            <nav>
+                <div class="deep-purple nav-wrapper">
+                    <a href="#" class="brand-logo">&nbspGestión ULL</a>
+                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+                        <li><a class="modal-trigger" href="#iniciar">Iniciar sesión</a></li>
+                        <li><a class="modal-trigger" href="#registro">Registrarse</a></li>
+                        <li><a href="#">Información</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <!-- Modal del botón iniciar sesión -->
+        <div id="iniciar" class="modal">
+            <div class="modal-content">
+                <h3>Inicio de sesión</h3>
+                <form action="#iniciosesion" method="get">
+                    <label>Correo electrónico: </label>
+                    <input type="text" name="correo" alt="El correo del usuario.">
+                    <br>
+                    <label>Contraseña:</label>
+                    <input type="password" name="clave" alt="La contraseña para iniciar sesión.">
+                    <br>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <div class="row">
+                    <div class="col s6">
+                        <p>¿Olvidaste la contraseña? <a href="#olvidoclave" name="recuperarcontraseña">Recuperar contraseña</a></p>
+                    </div>
+                    <div class="col s6">
+                        <a type="submit" class="modal-close waves-effect waves-green btn-flat">Iniciar Sesión</a>
+                    </div>
+                </div>   
+            </div>
+        </div>
+
+        <!-- Modal registrarse -->
+        <div id="registro" class="modal">
+            <div class="modal-content">
+                <h3>Registro</h3>
+                <p>
+                    A continuación se muestra una serie de campos que debe rellenar para completar su registro.
+                    Los campos que contengan el símbolo &quot*&quot son obligatorios.
+                </p>
+                <form action="#registrar" method="post">
+                    <p>Nombre: (*)</p>
+                    <input type="text" name="nombre" alt="El nombre del usuario.">
+
+                    <p>Apellido: (*)</p>
+                    <input type="text" name="apellido" alt="El apellido del usuario.">
+
+                    <div class="input-field col s12">
+                        <select>
+                            <option value="" disabled selected>Genero (*)</option>
+                            <option value="1">Hombre</option>
+                            <option value="2">Mujer</option>
+                        </select>
+                    </div>
+
+                    <div class="input-field col s12">
+                        <select>
+                            <option value="" disabled selected>Ciudad (*)</option>
+                            <option value="1">Santa Cruz</option>
+                            <option value="2">La laguna</option>
+                            <option value="3">La Orotava</option>
+                            <option value="4">Los realejos</option>
+                            <option value="5">Tacoronte</option>
+                            <option value="6">Icod de los vinos</option>
+                            <option value="7">Puerto de la Cruz</option>
+                            <option value="8">Adeje</option>
+                        </select>
+                    </div>
+
+                    <p>Correo electrónico: (*)</p>
+                    <input type="text" name="correo" alt="El correo del usuario.">
+
+                    <p>Contraseña: (*)</p>
+                    <input type="password" name="clave" alt="La contraseña para iniciar sesión.">
+
+                    <p>Repite la contraseña: (*)</p>
+                    <input type="password" name="re-clave" alt="Comprobación de la contraseña.">
+                </form>
+            </div>
+            <div class="modal-footer">
+                <a type="submit" class="modal-close waves-effect waves-green btn-flat">Registrar</a>
+            </div>
+        </div>
+
+        <!-- Sección con info -->
+        <div class="blue white-text center">
+            <div class="container">
+                <div class="section">
+                    <h2><em>Organiza tu tiempo y optimiza tus estudios!</em></h2>
+                    <p>
+                        Esta herramienta te ayudara a obtener los mejores resultados académicos gestionando de forma optima tu tiempo de estudio y ocio.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Primera imagen con parallax -->
+        <div class="parallax-container">
+            <div class="parallax">
+                <img src="imagenes/portada1.jpg" alt="">
+            </div>
+        </div>
+
+        <!-- Sección con info -->
+        <div class="blue white-text center">
+            <div class="container">
+                <div class="section">
+                    <h4>Tiempos de entrega sin estrés!</h4>
+                    <p>
+                        Hacer a tiempo los trabajos de la universidad y cumplir con todos los tiempos de espera, solo depende de ti y como te organizas. Por ello te ayudaremos a
+                        optimizar tu tiempo y mejorar tu resultado académico de manera muy fácil e intuitiva.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Segunda imagen con parallax -->
+        <div class="parallax-container">
+            <div class="parallax">
+                <img src="imagenes/portada2.jpg" alt="">
+            </div>
+        </div>
+        
+        <!-- Opiniones -->
+        <div class="blue white-text center">
+            <div class="container">
+                <div class="section">
+                    <h4>Opiniones de usuarios</h4>
+                    <p>
+                        Profesores y alumnos cuentan su experiencia con nosotros.
+                    </p>
+                </div>
+            </div>
+        </div>
+            <div class="row">
+            <div class="col s6">
+                 <ul class="collection">
+                    <li class="collection-item avatar">
+                      <img src="imagenes/bruno.jpg" alt="" class="circle">
+                      <span class="title">Bruno Lorenzo</span>
+                      <p>
+                          Muy buena herramienta, ahora tengo más tiempo libre.
+                      </p>
+                      <a href="#!" class="secondary-content"><i class="material-icons">account_circle</i></a>
+                    </li>
+                    <li class="collection-item avatar">
+                      <img src="imagenes/miguel.jpg" alt="" class="circle">
+                      <span class="title">José Miguel</span>
+                      <p>
+                          Me ha gustado mucho.
+                      </p>
+                      <a href="#!" class="secondary-content"><i class="material-icons">account_circle</i></a>
+                    </li>
+                    <li class="collection-item avatar">
+                      <img src="imagenes/jonay.jpg" alt="" class="circle">
+                      <span class="title">Jonay Estévez</span>
+                      <p>
+                          Excelente aplicación.
+                      </p>
+                      <a href="#!" class="secondary-content"><i class="material-icons">account_circle</i></a>
+                    </li>
+                  </ul>
+            </div>
+            <div class="col s6">
+                 <ul class="collection">
+                    <li class="collection-item avatar">
+                      <img src="imagenes/isabel.jpg" alt="" class="circle">
+                      <span class="title">Isabel Sánchez</span>
+                      <p>
+                          Me ha gustado bastante,  <br>
+                          aunque le falta algo de trabajo todavía.
+                      </p>
+                      <a href="#!" class="secondary-content"><i class="material-icons">account_circle</i></a>
+                    </li>
+                    <li class="collection-item avatar">
+                      <img src="imagenes/sande.jpg" alt="" class="circle">
+                      <span class="title">Francisco de Sande</span>
+                      <p>
+                          No esta mal.. Podría mejorar..
+                      </p>
+                      <a href="#!" class="secondary-content"><i class="material-icons">account_circle</i></a>
+                    </li>
+                    <li class="collection-item avatar">
+                      <img src="imagenes/dany.jpg" alt="" class="circle">
+                      <span class="title">José Daniel</span>
+                      <p>
+                          Una app sencilla y eficaz.
+                      </p>
+                      <a href="#!" class="secondary-content"><i class="material-icons">account_circle</i></a>
+                    </li> 
+                  </ul>
+            </div>
+        </div>
+        
+        <!-- Pie de pagina -->
+        <footer class="deep-purple page-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col l6 s12">
+                        <h5 class="white-text">Introducción a Materialize</h5>
+                        <h6>Universidad de la laguna</h6>
+                    </div>
+                    <div class="col l4 offset-l2 s12">
+                        <h5 class="white-text">Grupo 5</h5>
+                        <h6>Integrantes:</h6>
+                        <ul>
+                            <li><a class="grey-text text-lighten-3" href="#!">José Daniel Fuentes Marra</a></li>
+                            <li><a class="grey-text text-lighten-3" href="#!">Bruno Lorenzo Arroyo Pedraza</a></li>
+                            <li><a class="grey-text text-lighten-3" href="#!">José Miguel Hernández Santana</a></li>
+                            <li><a class="grey-text text-lighten-3" href="#!">Jonay Estévez Díaz</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-copyright">
+                <div class="container">
+                    © 2021 ULL - USABILIDAD Y ACCESIBILIDAD
+                </div>
+            </div>
+        </footer>
+
+        <script src="js/materialize.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('.parallax');
+                var instances = M.Parallax.init(elems);
+            });
+        </script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('select');
+                var instances = M.FormSelect.init(elems);
+            });
+        </script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var elems = document.querySelectorAll('.modal');
+                var instances = M.Modal.init(elems);
+            });
+        </script>
+    </body>
+</html>
