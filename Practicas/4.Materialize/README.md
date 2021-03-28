@@ -20,3 +20,5 @@ Diseñar un prototipo de página web de inicio para un sitio que muestre informa
 
 * Los estilos se deben establecer con el framework CSS: Materialize. 
 * No se exige funcionalidad en los elementos que se incorporen.
+
+[Prototipo realizado en Materialize](https://alu0101166247.github.io/Materialize/index.html)
