@@ -13,3 +13,10 @@ Jonay Estévez Díaz
 
 José Daniel Fuentes Marra
 (alu0101166247@ull.edu.es)
+
+## Desarrollo
+
+Diseñar un prototipo de página web de inicio para un sitio que muestre información respecto al proyecto que se desarrollará en la asignatura. 
+
+Los estilos se deben establecer con el framework CSS: Materialize. 
+No se exige funcionalidad en los elementos que se incorporen.
