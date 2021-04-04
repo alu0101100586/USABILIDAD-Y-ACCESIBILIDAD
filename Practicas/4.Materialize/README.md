@@ -1,5 +1,4 @@
-# Usabilidad y accesibilidad: Introducción a HTML
-
+# Usabilidad y accesibilidad: Materialize
 ## Grupo 5
 
 José Miguel Hernández Santana
