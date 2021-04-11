@@ -1,6 +1,6 @@
 # Usabilidad y accesibilidad: JavaScript, Ajax, Firebase
 
-## Grupo 6
+## Grupo 5
 
 José Miguel Hernández Santana
 (alu0101101507@ull.edu.es)
