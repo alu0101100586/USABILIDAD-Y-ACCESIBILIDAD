@@ -19,3 +19,7 @@
 ## Quinta entrega
 
 [introducción a JavaScript](5.Introduccion_a%20_JavaScript)
+
+## Sexta entrega
+
+[JavaScript, Ajax, Firebase](6.JavaScript%2C%20Ajax%2C%20Firebase)
