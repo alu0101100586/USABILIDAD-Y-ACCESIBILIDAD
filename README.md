@@ -44,6 +44,14 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 [Introducción a Materialize](Practicas/4.Materialize)
 
+### Quinta práctica. Introducción a JavaScript
+
+[Introducción a JavaScript](Practicas/5.Introduccion_a%20_JavaScript)
+
+### Sexta práctica. JavaScript, Ajax, Firebase
+
+[JavaScript, Ajax, Firebase](Practicas/6.JavaScript%2C%20Ajax%2C%20Firebase)
+
 
 
 
