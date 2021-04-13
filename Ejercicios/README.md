@@ -18,3 +18,11 @@
 
 ## Quinto Seminario
 [Operabilidad](5.Operable)
+
+## Sexto Seminario
+
+[Robusto y comprensible](6.Comprensible_y_robusto)
+
+## Septimo Seminario
+
+[Evaluación inicio](7.Evaluacion_inicio)
