@@ -1,4 +1,4 @@
-# **Auditorio de la página de Vodafone** 
+# **Auditoria de la página de Vodafone** 
 
 Grupo 5.
 
