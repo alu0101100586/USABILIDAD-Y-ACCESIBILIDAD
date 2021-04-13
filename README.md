@@ -26,6 +26,14 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 [Operable](Ejercicios/5.Operable)
 
+### Sexto Seminario. Comprensible y robusto
+
+[Comprensible y robusto](Ejercicios/6.Comprensible_y_robusto)
+
+### Sexto Seminario. Evaluación inicio
+
+[Evaluacion Inicio](Ejercicios/7.Evaluacion_inicio)
+
 ## Practicas
 
 ### Primera práctica. Uso del navegador para el desarrollo web
