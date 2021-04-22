@@ -23,3 +23,7 @@
 ## Sexta entrega
 
 [JavaScript, Ajax, Firebase](6.JavaScript%2C%20Ajax%2C%20Firebase)
+
+## Septima entrega
+
+[Validacion automática de la accesibilidad](7.Validacion_automatica_de_la_accesibilidad)
