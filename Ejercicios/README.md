@@ -26,3 +26,7 @@
 ## Septimo Seminario
 
 [Evaluación inicio](7.Evaluacion_inicio)
+
+## Octavo Seminario
+
+[Selección de la muestra](8.Seleccion_de_la_muestra)
