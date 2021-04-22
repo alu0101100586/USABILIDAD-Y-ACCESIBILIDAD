@@ -30,7 +30,7 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 [Comprensible y robusto](Ejercicios/6.Comprensible_y_robusto)
 
-### Sexto Seminario. Evaluación inicio
+### Septimo Seminario. Evaluación inicio
 
 [Evaluacion Inicio](Ejercicios/7.Evaluacion_inicio)
 
