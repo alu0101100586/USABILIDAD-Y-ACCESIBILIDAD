@@ -34,6 +34,10 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 [Evaluacion Inicio](Ejercicios/7.Evaluacion_inicio)
 
+### Octavo Seminario. Selección de la muestra
+
+[Selección de la muestra](https://github.com/Jonay-Estevez-Diaz/USABILIDAD-Y-ACCESIBILIDAD/tree/main/Ejercicios/8.Seleccion_de_la_muestra)
+
 ## Practicas
 
 ### Primera práctica. Uso del navegador para el desarrollo web
