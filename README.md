@@ -60,6 +60,10 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 [JavaScript, Ajax, Firebase](Practicas/6.JavaScript%2C%20Ajax%2C%20Firebase)
 
+### Septima práctica. Validación automática de la accesibilidad
+
+[Validación automática de la accesibilidad](Practicas/7.Validacion_automatica_de_la_accesibilidad)
+
 
 
 
