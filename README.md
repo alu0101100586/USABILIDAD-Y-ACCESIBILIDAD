@@ -40,6 +40,15 @@ Grabar un video en el que al menos dos componentes del grupo busquen la informac
 
 ### [Tercer Seminario. Legislación Accesibilidad](Ejercicios/3.Legislacion_y_accesibilidad)
 
+Basándote en el documento Resumen para Entidades Obligadas del Real Decreto 1112/2018, realizar una inforgrafía que ayude a la comprensión visual de los aspectos fundamentales de este Real Decreto:
+
+* Entidades Obligadas (Incluir ejemplos de cumplimiento y de incumplimiento)
+* Obligaciones respecto a la accesibilidad -Carga desproporcionada 
+* Fechas clave
+* Actividades periódicas
+* Declaración de accesibilidad. Sugerencias-Quejas-Reclamaciones
+* Unidad de Accesibilidad
+
 
 ### [Cuarto Seminario. Perceptible](Ejercicios/4.Perceptible)
 
