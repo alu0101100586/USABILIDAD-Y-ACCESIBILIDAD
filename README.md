@@ -15,34 +15,26 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 * Realizar el documento Readme en el repositorio en el que se documente el proceso a seguir. 
 * En la entrega de texto agregar un enlace a dicho documento. En la entrega subir un pdf.
 
-### Segundo seminario. Uso de la web por personas con disfuncionalidad
-
-[Uso de la web por personas con disfuncionalidad](Ejercicios/2.Uso_de_la_web_por_personas_con_disfuncionalidad)
-
-### Tercer Seminario. Legislación Accesibilidad
-
-[Legislación y Accesibilidad](Ejercicios/3.Legislacion_y_accesibilidad)
+### [Segundo seminario. Uso de la web por personas con disfuncionalidad](Ejercicios/2.Uso_de_la_web_por_personas_con_disfuncionalidad)
 
 
-### Cuarto Seminario. Perceptible
+### [Tercer Seminario. Legislación Accesibilidad](Ejercicios/3.Legislacion_y_accesibilidad)
 
-[Perceptible](Ejercicios/4.Perceptible)
 
-### Quinto Seminario. Operable
+### [Cuarto Seminario. Perceptible](Ejercicios/4.Perceptible)
 
-[Operable](Ejercicios/5.Operable)
 
-### Sexto Seminario. Comprensible y robusto
+### [Quinto Seminario. Operable](Ejercicios/5.Operable)
 
-[Comprensible y robusto](Ejercicios/6.Comprensible_y_robusto)
 
-### Septimo Seminario. Evaluación inicio
+### [Sexto Seminario. Comprensible y robusto](Ejercicios/6.Comprensible_y_robusto)
 
-[Evaluacion Inicio](Ejercicios/7.Evaluacion_inicio)
 
-### Octavo Seminario. Selección de la muestra
+### [Septimo Seminario. Evaluación inicio](Ejercicios/7.Evaluacion_inicio)
 
-[Selección de la muestra](https://github.com/Jonay-Estevez-Diaz/USABILIDAD-Y-ACCESIBILIDAD/tree/main/Ejercicios/8.Seleccion_de_la_muestra)
+
+### [Octavo Seminario. Selección de la muestra](Ejercicios/8.Seleccion_de_la_muestra)
+
 
 ## Practicas
 
