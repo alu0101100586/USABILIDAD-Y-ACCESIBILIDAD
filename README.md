@@ -61,6 +61,7 @@ Realizar un documento que incluya en una tabla un listado de las pautas en el pr
 
 ### [Sexto Seminario. Comprensible y robusto](Ejercicios/6.Comprensible_y_robusto)
 
+Realizar un documento sobre el criterio que hayas elegido respecto a los principios comprensible y robusto, incluyendo alguna técnica suficiente para el cumplimiento.  Se debe ilustrar con imágenes de forma similar al ejemplo mostrado en clase. Cada grupo realizará una aportación en el documento compartido de ejemplos de pautas WCAG 2.1.
 
 ### [Septimo Seminario. Evaluación inicio](Ejercicios/7.Evaluacion_inicio)
 
