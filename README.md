@@ -5,9 +5,15 @@ En este repositorio se guardarán los seminarios y las prácticas realizadas a l
 
 ## Seminarios
 
-### Primer seminario. Seminario DCU
+### [Primer seminario. Seminario DCU](Ejercicios/1.Seminario_DCU)
 
-[Seminario DCU](Ejercicios/1.Seminario_DCU)
+1. Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.
+2. Aplicar el DCU para la realización de un prototipo de una aplicación web para la gestión y optimización del tiempo de estudio de un estudiante del Grado en Ingeniería Informática de la ULL. Para ello:
+* Definir las tareas que se llevarán a cabo en la fase de investigación y diseño conceptual de la aplicación.
+* Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto y la especificación de requisitos.
+* Crear un repositorio en github para las tareas de la asignatura.
+* Realizar el documento Readme en el repositorio en el que se documente el proceso a seguir. 
+* En la entrega de texto agregar un enlace a dicho documento. En la entrega subir un pdf.
 
 ### Segundo seminario. Uso de la web por personas con disfuncionalidad
 
